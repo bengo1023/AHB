@@ -1,0 +1,16 @@
+h1 {
+	color: #55eb34;
+}
+
+h2 {
+	color: #349ceb;
+}
+
+#Links {
+	text-align: center;
+}
+#picture {
+	height: 100px;
+	width: 50%;
+	align-items: center;
+}
